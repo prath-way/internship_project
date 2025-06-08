@@ -27,4 +27,19 @@ Symbols
 📋 Copy password to clipboard with one click
 ⚠️ Input validation with warning messages
 
+TASK 3
+# 📒 Contact Book App
+A simple desktop Contact Book application built with **Python**, **Tkinter**, and **SQLite3**.
+## 📌 Features
+- 📝 Add new contacts (Name & Phone required)
+- 🔍 Search contacts by name or phone number
+- 📜 View all contacts in a scrollable list
+- ✏️ Update existing contact details
+- 🗑️ Delete a contact with confirmation
+- 💾 Data stored locally using SQLite3
+
+
+
+
+
 
