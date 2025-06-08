@@ -50,3 +50,11 @@ A basic command-line calculator built with **Python** that performs simple arith
 - ❌ Handles division by zero
 - ❌ Validates numeric input
 
+TASK 5
+# ✊🖐✌ Rock-Paper-Scissors Game
+A terminal-based Rock-Paper-Scissors game built with **Python**. Play against the computer, track scores, and enjoy multiple rounds!
+## 🎮 Features
+- Play as many rounds as you want
+- Random computer moves
+- Score tracking for both user and computer
+- Clear user prompts and instructions
