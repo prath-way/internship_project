@@ -39,7 +39,14 @@ A simple desktop Contact Book application built with **Python**, **Tkinter**, an
 - 💾 Data stored locally using SQLite3
 
 
-
-
-
+TASK 4
+# 🧮 Simple Calculator
+A basic command-line calculator built with **Python** that performs simple arithmetic operations like addition, subtraction, multiplication, and division.
+## 🚀 Features
+- ✅ Add two numbers
+- ✅ Subtract two numbers
+- ✅ Multiply two numbers
+- ✅ Divide two numbers
+- ❌ Handles division by zero
+- ❌ Validates numeric input
 
